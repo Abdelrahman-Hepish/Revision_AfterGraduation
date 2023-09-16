@@ -1,0 +1,10 @@
+07:33:24 **** Incremental Build of configuration Debug for project HelloSTM32 ****
+make -j8 all 
+arm-none-eabi-size   HelloSTM32.elf 
+   text	   data	    bss	    dec	    hex	filename
+    904	      8	   1568	   2480	    9b0	HelloSTM32.elf
+Finished building: default.size.stdout
+ 
+
+07:33:24 Build Finished. 0 errors, 0 warnings. (took 177ms)
+
