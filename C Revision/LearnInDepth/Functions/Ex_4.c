@@ -12,6 +12,8 @@
         scanf("%d",&b)  ;
         printf("Enter power number : ") ; 
         scanf(" %d",&p) ; 
-        printf("%d^%d = %d",b,p,power(b,p)) ; 
+        printf("%d^%d = %d\n",b,p,power(b,p)) ; 
+        char a = '\012' ; 
+        printf("%c %d",a,a) ; 
         return 0 ; 
     }
